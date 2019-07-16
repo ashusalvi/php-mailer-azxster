@@ -7,7 +7,6 @@ PHP mailer make simple
 * I try to simplify the PHPMailer 
 * PHPMailer Object Oriented
 *THANK YOU
-*
 */
 
 #Step 1 : Open phpmailer/mail-confiq.php
